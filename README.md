@@ -1,0 +1,1 @@
+This is a simple Python script desined to download all the images from prnt.sc/
