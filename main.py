@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup as bs
 import urllib.request
 
 alph = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
-data = open(".count", "r")
+data = open("count", "r")
 lines = data.readlines()
 linka = lines[0][:-1]
 linkb = lines[1]
